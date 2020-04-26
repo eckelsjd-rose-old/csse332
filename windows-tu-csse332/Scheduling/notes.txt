@@ -1,0 +1,27 @@
+/* MILESTONE 1 */
+ 20     char line[80];
+ 21     char buffer[512];
+ 22 
+ 23     /* Main task 1 */
+ 24     printStringFirstLine("Hello World"); /* this uses raw memory commands; see function below */
+ 25     
+ 26     /* Main task 2 */
+ 27     makeInterrupt21();
+ 28     interrupt(0x21,0,"This uses printString()",0,0);
+ 29     interrupt(0x21,0,"\n",0,0);
+ 30     
+ 31     /* Main task 3 */
+ 32     interrupt(0x21,0,"Choose your fate: ",0,0);
+ 33     interrupt(0x21,1,line,0,0);
+ 34 
+ 35     /* Main task 4 */
+ 36     interrupt(0x21,0,line,0,0);
+ 37 
+ 38     /* Main task 5 */
+ 39     /*
+ 40     Be sure to run this on command line before running the floppya.img:
+ 41     dd if=message.txt of=floppya.img bs=512 count=1 seek=30 conv=notrunc
+ 42     */
+ 43     interrupt(0x21,2,buffer, 30,0);
+ 44     interrupt(0x21,0,buffer,0,0);
+

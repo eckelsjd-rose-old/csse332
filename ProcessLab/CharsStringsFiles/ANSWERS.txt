@@ -1,0 +1,23 @@
+Joshua Eckels
+12-23-2019
+csse332
+
+Be sure to write your name(s) in this file.
+
+Answer the questions posted in the instructions here.
+
+Question 1:
+
+(a) A SIGSEGV signal (segmentation fault) is received. iogetline.c is complaining.
+
+
+(b) The segmentation fault is received at line 320 when trying to run the function printFileToConsole3().
+
+Problem 2: When trying to run printFileToConsole3, fgetlines() is called, which in turn calls fgetline. The 
+root cause of the error in problem 1 occurs in fgetlin() when fgets is called; this is where the seg fault
+occurs.
+
+Problem 4: The error was occuring in the function fgetlines() because it never allocates memory for the
+char *nextLine string the first time it calls fgetline(). The problem was fixed by adding an allocation
+of memory via a call to calloc at line 65 in file-functions.c.
+

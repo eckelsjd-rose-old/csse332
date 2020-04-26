@@ -1,0 +1,9 @@
+1. What is expected behavior when running sheduler?
+	a. running programs more than once
+	b. 'execute' command specifically is funky
+	c. kill is funky after second use
+
+2. What about those setDataSegment things and when should we worry about them? What do they do?
+3. How do user programs terminate? Is user responsible for calling interrupts
+	a. does phello call terminate?
+	b. What is expected behavior for that?

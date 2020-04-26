@@ -1,0 +1,761 @@
+Alloc address: 0xf7f15088
+Start: 0xf7f15088. End: 0xf7f150a0
+Alloc address: 0xf7f150a0
+Start: 0xf7f150a0. End: 0xf7f150bc
+Alloc address: 0xf7f150bc
+Start: 0xf7f150bc. End: 0xf7f150d4
+Alloc address: 0xf7f150d4
+Start: 0xf7f150d4. End: 0xf7f150f0
+Alloc address: 0xf7f150f0
+Start: 0xf7f150f0. End: 0xf7f15108
+Alloc address: 0xf7f15108
+Start: 0xf7f15108. End: 0xf7f15128
+Alloc address: 0xf7f15128
+Start: 0xf7f15128. End: 0xf7f15148
+Alloc address: 0xf7f15148
+Start: 0xf7f15148. End: 0xf7f15164
+Alloc address: 0xf7f15164
+Start: 0xf7f15164. End: 0xf7f15180
+Alloc address: 0xf7f15180
+Start: 0xf7f15180. End: 0xf7f151a4
+Alloc address: 0xf7f151a4
+Start: 0xf7f151a4. End: 0xf7f151c0
+Alloc address: 0xf7f151c0
+Start: 0xf7f151c0. End: 0xf7f151dc
+Alloc address: 0xf7f151dc
+Start: 0xf7f151dc. End: 0xf7f151f0
+Alloc address: 0xf7f151f0
+Start: 0xf7f151f0. End: 0xf7f15214
+Alloc address: 0xf7f15214
+Start: 0xf7f15214. End: 0xf7f1522c
+Alloc address: 0xf7f1522c
+Start: 0xf7f1522c. End: 0xf7f15244
+Alloc address: 0xf7f15244
+Start: 0xf7f15244. End: 0xf7f1525c
+Alloc address: 0xf7f1525c
+Start: 0xf7f1525c. End: 0xf7f15274
+Alloc address: 0xf7f15274
+Start: 0xf7f15274. End: 0xf7f1528c
+Alloc address: 0xf7f1528c
+Start: 0xf7f1528c. End: 0xf7f152a4
+Alloc address: 0xf7f152a4
+Start: 0xf7f152a4. End: 0xf7f152bc
+Alloc address: 0xf7f152bc
+Start: 0xf7f152bc. End: 0xf7f152d4
+Alloc address: 0xf7f152d4
+Start: 0xf7f152d4. End: 0xf7f152ec
+Alloc address: 0xf7f152ec
+Start: 0xf7f152ec. End: 0xf7f15314
+Alloc address: 0xf7f15314
+Start: 0xf7f15314. End: 0xf7f15338
+Alloc address: 0xf7f15338
+Start: 0xf7f15338. End: 0xf7f15368
+Alloc address: 0xf7f15368
+Start: 0xf7f15368. End: 0xf7f15398
+Alloc address: 0xf7f15398
+Start: 0xf7f15398. End: 0xf7f153ec
+Alloc address: 0xf7f153ec
+Start: 0xf7f153ec. End: 0xf7f15408
+Alloc address: 0xf7f15408
+Start: 0xf7f15408. End: 0xf7f15438
+Alloc address: 0xf7f15438
+Start: 0xf7f15438. End: 0xf7f15468
+Alloc address: 0xf7f15468
+Start: 0xf7f15468. End: 0xf7f1549c
+Alloc address: 0xf7f1549c
+Start: 0xf7f1549c. End: 0xf7f154ec
+Alloc address: 0xf7f154ec
+Start: 0xf7f154ec. End: 0xf7f15510
+Alloc address: 0xf7f15510
+Start: 0xf7f15510. End: 0xf7f15578
+Alloc address: 0xf7f15578
+Start: 0xf7f15578. End: 0xf7f15590
+Alloc address: 0xf7f15590
+Start: 0xf7f15590. End: 0xf7f155ac
+Alloc address: 0xf7f155ac
+Start: 0xf7f155ac. End: 0xf7f155dc
+Alloc address: 0xf7f155dc
+Start: 0xf7f155dc. End: 0xf7f15600
+Alloc address: 0xf7f15600
+Start: 0xf7f15600. End: 0xf7f15638
+Alloc address: 0xf7f15638
+Start: 0xf7f15638. End: 0xf7f1565c
+Alloc address: 0xf7f1565c
+Start: 0xf7f1565c. End: 0xf7f1567c
+Alloc address: 0xf7f1567c
+Start: 0xf7f1567c. End: 0xf7f156e4
+Alloc address: 0xf7f156e4
+Start: 0xf7f156e4. End: 0xf7f15730
+Alloc address: 0xf7f15730
+Start: 0xf7f15730. End: 0xf7f15774
+Alloc address: 0xf7f15774
+Start: 0xf7f15774. End: 0xf7f157a4
+Alloc address: 0xf7f157a4
+Start: 0xf7f157a4. End: 0xf7f1582c
+Alloc address: 0xf7f1582c
+Start: 0xf7f1582c. End: 0xf7f1584c
+Alloc address: 0xf7f1584c
+Start: 0xf7f1584c. End: 0xf7f15864
+Alloc address: 0xf7f15864
+Start: 0xf7f15864. End: 0xf7f1587c
+Alloc address: 0xf7f1587c
+Start: 0xf7f1587c. End: 0xf7f158d0
+Alloc address: 0xf7f158d0
+Start: 0xf7f158d0. End: 0xf7f158f8
+Alloc address: 0xf7f158f8
+Start: 0xf7f158f8. End: 0xf7f15928
+Alloc address: 0xf7f15928
+Start: 0xf7f15928. End: 0xf7f15950
+Alloc address: 0xf7f15950
+Start: 0xf7f15950. End: 0xf7f1597c
+Alloc address: 0xf7f1597c
+Start: 0xf7f1597c. End: 0xf7f15a60
+Alloc address: 0xf7f15a60
+Start: 0xf7f15a60. End: 0xf7f15ab0
+Alloc address: 0xf7f15ab0
+Start: 0xf7f15ab0. End: 0xf7f15b14
+Alloc address: 0xf7f15b14
+Start: 0xf7f15b14. End: 0xf7f15b58
+Alloc address: 0xf7f15b58
+Start: 0xf7f15b58. End: 0xf7f15b80
+Alloc address: 0xf7f15b80
+Start: 0xf7f15b80. End: 0xf7f15ba0
+Alloc address: 0xf7f15ba0
+Start: 0xf7f15ba0. End: 0xf7f15bf4
+Alloc address: 0xf7f15bf4
+Start: 0xf7f15bf4. End: 0xf7f15c34
+Alloc address: 0xf7f15c34
+Start: 0xf7f15c34. End: 0xf7f15c8c
+Alloc address: 0xf7f15c8c
+Start: 0xf7f15c8c. End: 0xf7f15ce4
+Alloc address: 0xf7f15ce4
+Start: 0xf7f15ce4. End: 0xf7f15d40
+Alloc address: 0xf7f15d40
+Start: 0xf7f15d40. End: 0xf7f15d64
+Alloc address: 0xf7f15d64
+Start: 0xf7f15d64. End: 0xf7f15d8c
+Alloc address: 0xf7f15d8c
+Start: 0xf7f15d8c. End: 0xf7f15de4
+Alloc address: 0xf7f15de4
+Start: 0xf7f15de4. End: 0xf7f15e18
+Alloc address: 0xf7f15e18
+Start: 0xf7f15e18. End: 0xf7f15f78
+Alloc address: 0xf7f15f78
+Start: 0xf7f15f78. End: 0xf7f15f94
+Alloc address: 0xf7f15f94
+Start: 0xf7f15f94. End: 0xf7f15fcc
+Alloc address: 0xf7f15fcc
+Start: 0xf7f15fcc. End: 0xf7f15fe4
+Alloc address: 0xf7f15fe4
+Start: 0xf7f15fe4. End: 0xf7f1601c
+Alloc address: 0xf7f1601c
+Start: 0xf7f1601c. End: 0xf7f16078
+Alloc address: 0xf7f16078
+Start: 0xf7f16078. End: 0xf7f163a4
+Alloc address: 0xf7f163a4
+Start: 0xf7f163a4. End: 0xf7f163e0
+Alloc address: 0xf7f163e0
+Start: 0xf7f163e0. End: 0xf7f163fc
+Alloc address: 0xf7f163fc
+Start: 0xf7f163fc. End: 0xf7f16428
+Alloc address: 0xf7f16428
+Start: 0xf7f16428. End: 0xf7f1645c
+Alloc address: 0xf7f1645c
+Start: 0xf7f1645c. End: 0xf7f16568
+Alloc address: 0xf7f16568
+Start: 0xf7f16568. End: 0xf7f1658c
+Alloc address: 0xf7f1658c
+Start: 0xf7f1658c. End: 0xf7f16684
+Alloc address: 0xf7f16684
+Start: 0xf7f16684. End: 0xf7f167b0
+Alloc address: 0xf7f167b0
+Start: 0xf7f167b0. End: 0xf7f167f0
+Alloc address: 0xf7f167f0
+Start: 0xf7f167f0. End: 0xf7f16840
+Alloc address: 0xf7f16840
+Start: 0xf7f16840. End: 0xf7f16860
+Alloc address: 0xf7f16860
+Start: 0xf7f16860. End: 0xf7f16894
+Alloc address: 0xf7f16894
+Start: 0xf7f16894. End: 0xf7f168c8
+Alloc address: 0xf7f168c8
+Start: 0xf7f168c8. End: 0xf7f168e8
+Alloc address: 0xf7f168e8
+Start: 0xf7f168e8. End: 0xf7f1690c
+Alloc address: 0xf7f1690c
+Start: 0xf7f1690c. End: 0xf7f1693c
+Alloc address: 0xf7f1693c
+Start: 0xf7f1693c. End: 0xf7f16954
+Alloc address: 0xf7f16954
+Start: 0xf7f16954. End: 0xf7f1697c
+Alloc address: 0xf7f1697c
+Start: 0xf7f1697c. End: 0xf7f169b4
+Alloc address: 0xf7f169b4
+Start: 0xf7f169b4. End: 0xf7f169f8
+Alloc address: 0xf7f169f8
+Start: 0xf7f169f8. End: 0xf7f16a10
+Alloc address: 0xf7f16a10
+Start: 0xf7f16a10. End: 0xf7f16a28
+Alloc address: 0xf7f16a28
+Start: 0xf7f16a28. End: 0xf7f16a40
+Alloc address: 0xf7f16a40
+Start: 0xf7f16a40. End: 0xf7f16a58
+Alloc address: 0xf7f16a58
+Start: 0xf7f16a58. End: 0xf7f16a70
+Alloc address: 0xf7f16a70
+Start: 0xf7f16a70. End: 0xf7f16a88
+Alloc address: 0xf7f16a88
+Start: 0xf7f16a88. End: 0xf7f16aa0
+Alloc address: 0xf7f16aa0
+Start: 0xf7f16aa0. End: 0xf7f16ab8
+Alloc address: 0xf7f16ab8
+Start: 0xf7f16ab8. End: 0xf7f16adc
+Alloc address: 0xf7f16adc
+Start: 0xf7f16adc. End: 0xf7f16afc
+Alloc address: 0xf7f16afc
+Start: 0xf7f16afc. End: 0xf7f16b28
+Alloc address: 0xf7f16b28
+Start: 0xf7f16b28. End: 0xf7f16bb8
+Alloc address: 0xf7f16bb8
+Start: 0xf7f16bb8. End: 0xf7f16c04
+Alloc address: 0xf7f16c04
+Start: 0xf7f16c04. End: 0xf7f16c70
+Alloc address: 0xf7f16c70
+Start: 0xf7f16c70. End: 0xf7f16d0c
+Alloc address: 0xf7f16d0c
+Start: 0xf7f16d0c. End: 0xf7f16d2c
+Alloc address: 0xf7f16d2c
+Start: 0xf7f16d2c. End: 0xf7f16d50
+Alloc address: 0xf7f16d50
+Start: 0xf7f16d50. End: 0xf7f16dac
+Alloc address: 0xf7f16dac
+Start: 0xf7f16dac. End: 0xf7f16dcc
+Alloc address: 0xf7f16dcc
+Start: 0xf7f16dcc. End: 0xf7f16de8
+Starting test 2
+Alloc address: 0xf7f16de8
+Start: 0xf7f16de8. End: 0xf7f16df0
+Alloc address: 0xf7f16df0
+Start: 0xf7f16df0. End: 0xf7f16dfc
+Record added: 116. Start: 0xf7f16dcc
+forth latest: 0xf7f16dcc
+Latest start: 0xf7f16dcc. end: 0xf7f16de8.
+Compute_unrefed:
+Record 0. Start: 0xf7f15088. End: 0xf7f150a0
+Record 1. Start: 0xf7f150a0. End: 0xf7f150bc
+Record 2. Start: 0xf7f150bc. End: 0xf7f150d4
+Record 3. Start: 0xf7f150d4. End: 0xf7f150f0
+Record 4. Start: 0xf7f150f0. End: 0xf7f15108
+Record 5. Start: 0xf7f15108. End: 0xf7f15128
+Record 6. Start: 0xf7f15128. End: 0xf7f15148
+Record 7. Start: 0xf7f15148. End: 0xf7f15164
+Record 8. Start: 0xf7f15164. End: 0xf7f15180
+Record 9. Start: 0xf7f15180. End: 0xf7f151a4
+Record 10. Start: 0xf7f151a4. End: 0xf7f151c0
+Record 11. Start: 0xf7f151c0. End: 0xf7f151dc
+Record 12. Start: 0xf7f151dc. End: 0xf7f151f0
+Record 13. Start: 0xf7f151f0. End: 0xf7f15214
+Record 14. Start: 0xf7f15214. End: 0xf7f1522c
+Record 15. Start: 0xf7f1522c. End: 0xf7f15244
+Record 16. Start: 0xf7f15244. End: 0xf7f1525c
+Record 17. Start: 0xf7f1525c. End: 0xf7f15274
+Record 18. Start: 0xf7f15274. End: 0xf7f1528c
+Record 19. Start: 0xf7f1528c. End: 0xf7f152a4
+Record 20. Start: 0xf7f152a4. End: 0xf7f152bc
+Record 21. Start: 0xf7f152bc. End: 0xf7f152d4
+Record 22. Start: 0xf7f152d4. End: 0xf7f152ec
+Record 23. Start: 0xf7f152ec. End: 0xf7f15314
+Record 24. Start: 0xf7f15314. End: 0xf7f15338
+Record 25. Start: 0xf7f15338. End: 0xf7f15368
+Record 26. Start: 0xf7f15368. End: 0xf7f15398
+Record 27. Start: 0xf7f15398. End: 0xf7f153ec
+Record 28. Start: 0xf7f153ec. End: 0xf7f15408
+Record 29. Start: 0xf7f15408. End: 0xf7f15438
+Record 30. Start: 0xf7f15438. End: 0xf7f15468
+Record 31. Start: 0xf7f15468. End: 0xf7f1549c
+Record 32. Start: 0xf7f1549c. End: 0xf7f154ec
+Record 33. Start: 0xf7f154ec. End: 0xf7f15510
+Record 34. Start: 0xf7f15510. End: 0xf7f15578
+Record 35. Start: 0xf7f15578. End: 0xf7f15590
+Record 36. Start: 0xf7f15590. End: 0xf7f155ac
+Record 37. Start: 0xf7f155ac. End: 0xf7f155dc
+Record 38. Start: 0xf7f155dc. End: 0xf7f15600
+Record 39. Start: 0xf7f15600. End: 0xf7f15638
+Record 40. Start: 0xf7f15638. End: 0xf7f1565c
+Record 41. Start: 0xf7f1565c. End: 0xf7f1567c
+Record 42. Start: 0xf7f1567c. End: 0xf7f156e4
+Record 43. Start: 0xf7f156e4. End: 0xf7f15730
+Record 44. Start: 0xf7f15730. End: 0xf7f15774
+Record 45. Start: 0xf7f15774. End: 0xf7f157a4
+Record 46. Start: 0xf7f157a4. End: 0xf7f1582c
+Record 47. Start: 0xf7f1582c. End: 0xf7f1584c
+Record 48. Start: 0xf7f1584c. End: 0xf7f15864
+Record 49. Start: 0xf7f15864. End: 0xf7f1587c
+Record 50. Start: 0xf7f1587c. End: 0xf7f158d0
+Record 51. Start: 0xf7f158d0. End: 0xf7f158f8
+Record 52. Start: 0xf7f158f8. End: 0xf7f15928
+Record 53. Start: 0xf7f15928. End: 0xf7f15950
+Record 54. Start: 0xf7f15950. End: 0xf7f1597c
+Record 55. Start: 0xf7f1597c. End: 0xf7f15a60
+Record 56. Start: 0xf7f15a60. End: 0xf7f15ab0
+Record 57. Start: 0xf7f15ab0. End: 0xf7f15b14
+Record 58. Start: 0xf7f15b14. End: 0xf7f15b58
+Record 59. Start: 0xf7f15b58. End: 0xf7f15b80
+Record 60. Start: 0xf7f15b80. End: 0xf7f15ba0
+Record 61. Start: 0xf7f15ba0. End: 0xf7f15bf4
+Record 62. Start: 0xf7f15bf4. End: 0xf7f15c34
+Record 63. Start: 0xf7f15c34. End: 0xf7f15c8c
+Record 64. Start: 0xf7f15c8c. End: 0xf7f15ce4
+Record 65. Start: 0xf7f15ce4. End: 0xf7f15d40
+Record 66. Start: 0xf7f15d40. End: 0xf7f15d64
+Record 67. Start: 0xf7f15d64. End: 0xf7f15d8c
+Record 68. Start: 0xf7f15d8c. End: 0xf7f15de4
+Record 69. Start: 0xf7f15de4. End: 0xf7f15e18
+Record 70. Start: 0xf7f15e18. End: 0xf7f15f78
+Record 71. Start: 0xf7f15f78. End: 0xf7f15f94
+Record 72. Start: 0xf7f15f94. End: 0xf7f15fcc
+Record 73. Start: 0xf7f15fcc. End: 0xf7f15fe4
+Record 74. Start: 0xf7f15fe4. End: 0xf7f1601c
+Record 75. Start: 0xf7f1601c. End: 0xf7f16078
+Record 76. Start: 0xf7f16078. End: 0xf7f163a4
+Record 77. Start: 0xf7f163a4. End: 0xf7f163e0
+Record 78. Start: 0xf7f163e0. End: 0xf7f163fc
+Record 79. Start: 0xf7f163fc. End: 0xf7f16428
+Record 80. Start: 0xf7f16428. End: 0xf7f1645c
+Record 81. Start: 0xf7f1645c. End: 0xf7f16568
+Record 82. Start: 0xf7f16568. End: 0xf7f1658c
+Record 83. Start: 0xf7f1658c. End: 0xf7f16684
+Record 84. Start: 0xf7f16684. End: 0xf7f167b0
+Record 85. Start: 0xf7f167b0. End: 0xf7f167f0
+Record 86. Start: 0xf7f167f0. End: 0xf7f16840
+Record 87. Start: 0xf7f16840. End: 0xf7f16860
+Record 88. Start: 0xf7f16860. End: 0xf7f16894
+Record 89. Start: 0xf7f16894. End: 0xf7f168c8
+Record 90. Start: 0xf7f168c8. End: 0xf7f168e8
+Record 91. Start: 0xf7f168e8. End: 0xf7f1690c
+Record 92. Start: 0xf7f1690c. End: 0xf7f1693c
+Record 93. Start: 0xf7f1693c. End: 0xf7f16954
+Record 94. Start: 0xf7f16954. End: 0xf7f1697c
+Record 95. Start: 0xf7f1697c. End: 0xf7f169b4
+Record 96. Start: 0xf7f169b4. End: 0xf7f169f8
+Record 97. Start: 0xf7f169f8. End: 0xf7f16a10
+Record 98. Start: 0xf7f16a10. End: 0xf7f16a28
+Record 99. Start: 0xf7f16a28. End: 0xf7f16a40
+Record 100. Start: 0xf7f16a40. End: 0xf7f16a58
+Record 101. Start: 0xf7f16a58. End: 0xf7f16a70
+Record 102. Start: 0xf7f16a70. End: 0xf7f16a88
+Record 103. Start: 0xf7f16a88. End: 0xf7f16aa0
+Record 104. Start: 0xf7f16aa0. End: 0xf7f16ab8
+Record 105. Start: 0xf7f16ab8. End: 0xf7f16adc
+Record 106. Start: 0xf7f16adc. End: 0xf7f16afc
+Record 107. Start: 0xf7f16afc. End: 0xf7f16b28
+Record 108. Start: 0xf7f16b28. End: 0xf7f16bb8
+Record 109. Start: 0xf7f16bb8. End: 0xf7f16c04
+Record 110. Start: 0xf7f16c04. End: 0xf7f16c70
+Record 111. Start: 0xf7f16c70. End: 0xf7f16d0c
+Record 112. Start: 0xf7f16d0c. End: 0xf7f16d2c
+Record 113. Start: 0xf7f16d2c. End: 0xf7f16d50
+Record 114. Start: 0xf7f16d50. End: 0xf7f16dac
+Record 115. Start: 0xf7f16dac. End: 0xf7f16dcc
+Record 116. Start: 0xf7f16dcc. End: 0xf7f16de8
+Record 117. Start: 0xf7f16de8. End: 0xf7f16df0
+Record 118. Start: 0xf7f16df0. End: 0xf7f16dfc
+Record added: 117. Start: 0xf7f16de8
+Record added: 115. Start: 0xf7f16dac
+Record added: 77. Start: 0xf7f163a4
+Record added: 114. Start: 0xf7f16d50
+Record added: 62. Start: 0xf7f15bf4
+Record added: 76. Start: 0xf7f16078
+Record added: 113. Start: 0xf7f16d2c
+Record added: 60. Start: 0xf7f15b80
+Record added: 112. Start: 0xf7f16d0c
+Record added: 61. Start: 0xf7f15ba0
+Record added: 75. Start: 0xf7f1601c
+Record added: 37. Start: 0xf7f155ac
+Record added: 35. Start: 0xf7f15578
+Record added: 14. Start: 0xf7f15214
+Record added: 8. Start: 0xf7f15164
+Record added: 65. Start: 0xf7f15ce4
+Record added: 8. Start: 0xf7f15164
+Record added: 67. Start: 0xf7f15d64
+Record added: 56. Start: 0xf7f15a60
+Record added: 47. Start: 0xf7f1582c
+Record added: 18. Start: 0xf7f15274
+Record added: 8. Start: 0xf7f15164
+Record added: 56. Start: 0xf7f15a60
+Record added: 18. Start: 0xf7f15274
+Record added: 8. Start: 0xf7f15164
+Record added: 52. Start: 0xf7f158f8
+Record added: 56. Start: 0xf7f15a60
+Record added: 47. Start: 0xf7f1582c
+Record added: 56. Start: 0xf7f15a60
+Record added: 56. Start: 0xf7f15a60
+Record added: 47. Start: 0xf7f1582c
+Record added: 56. Start: 0xf7f15a60
+Record added: 8. Start: 0xf7f15164
+Record added: 75. Start: 0xf7f1601c
+Record added: 65. Start: 0xf7f15ce4
+Record added: 8. Start: 0xf7f15164
+Record added: 56. Start: 0xf7f15a60
+Record added: 75. Start: 0xf7f1601c
+Record added: 65. Start: 0xf7f15ce4
+Record added: 8. Start: 0xf7f15164
+Record added: 15. Start: 0xf7f1522c
+Record added: 7. Start: 0xf7f15148
+Record added: 112. Start: 0xf7f16d0c
+Record added: 58. Start: 0xf7f15b14
+Record added: 59. Start: 0xf7f15b58
+Record added: 111. Start: 0xf7f16c70
+Record added: 59. Start: 0xf7f15b58
+Record added: 60. Start: 0xf7f15b80
+Record added: 60. Start: 0xf7f15b80
+Record added: 59. Start: 0xf7f15b58
+Record added: 74. Start: 0xf7f15fe4
+Record added: 35. Start: 0xf7f15578
+Record added: 36. Start: 0xf7f15590
+Record added: 34. Start: 0xf7f15510
+Record added: 13. Start: 0xf7f151f0
+Record added: 7. Start: 0xf7f15148
+Record added: 4. Start: 0xf7f150f0
+Record added: 64. Start: 0xf7f15c8c
+Record added: 66. Start: 0xf7f15d40
+Record added: 55. Start: 0xf7f1597c
+Record added: 46. Start: 0xf7f157a4
+Record added: 46. Start: 0xf7f157a4
+Record added: 8. Start: 0xf7f15164
+Record added: 17. Start: 0xf7f1525c
+Record added: 51. Start: 0xf7f158d0
+Record added: 14. Start: 0xf7f15214
+Record added: 6. Start: 0xf7f15128
+Record added: 3. Start: 0xf7f150d4
+Record added: 6. Start: 0xf7f15128
+Record added: 57. Start: 0xf7f15ab0
+Record added: 58. Start: 0xf7f15b14
+Record added: 110. Start: 0xf7f16c04
+Record added: 12. Start: 0xf7f151dc
+Record added: 56. Start: 0xf7f15a60
+Record added: 47. Start: 0xf7f1582c
+Record added: 7. Start: 0xf7f15148
+Record added: 92. Start: 0xf7f1690c
+Record added: 47. Start: 0xf7f1582c
+Record added: 56. Start: 0xf7f15a60
+Record added: 7. Start: 0xf7f15148
+Record added: 56. Start: 0xf7f15a60
+Record added: 73. Start: 0xf7f15fcc
+Record added: 26. Start: 0xf7f15368
+Record added: 35. Start: 0xf7f15578
+Record added: 33. Start: 0xf7f154ec
+Record added: 16. Start: 0xf7f15244
+Record added: 17. Start: 0xf7f1525c
+Record added: 12. Start: 0xf7f151dc
+Record added: 3. Start: 0xf7f150d4
+Record added: 63. Start: 0xf7f15c34
+Record added: 65. Start: 0xf7f15ce4
+Record added: 54. Start: 0xf7f15950
+Record added: 18. Start: 0xf7f15274
+Record added: 54. Start: 0xf7f15950
+Record added: 53. Start: 0xf7f15928
+Record added: 18. Start: 0xf7f15274
+Record added: 45. Start: 0xf7f15774
+Record added: 9. Start: 0xf7f15180
+Record added: 44. Start: 0xf7f15730
+Record added: 39. Start: 0xf7f15600
+Record added: 21. Start: 0xf7f152bc
+Record added: 42. Start: 0xf7f1567c
+Record added: 16. Start: 0xf7f15244
+Record added: 50. Start: 0xf7f1587c
+Record added: 5. Start: 0xf7f15108
+Record added: 2. Start: 0xf7f150bc
+Record added: 56. Start: 0xf7f15a60
+Record added: 55. Start: 0xf7f1597c
+Record added: 56. Start: 0xf7f15a60
+Record added: 18. Start: 0xf7f15274
+Record added: 109. Start: 0xf7f16bb8
+Record added: 56. Start: 0xf7f15a60
+Record added: 7. Start: 0xf7f15148
+Record added: 82. Start: 0xf7f16568
+Record added: 109. Start: 0xf7f16bb8
+Record added: 11. Start: 0xf7f151c0
+Record added: 91. Start: 0xf7f168e8
+Record added: 91. Start: 0xf7f168e8
+Record added: 1. Start: 0xf7f150a0
+Record added: 72. Start: 0xf7f15f94
+Record added: 27. Start: 0xf7f15398
+Record added: 25. Start: 0xf7f15338
+Record added: 32. Start: 0xf7f1549c
+Record added: 12. Start: 0xf7f151dc
+Record added: 25. Start: 0xf7f15338
+Record added: 15. Start: 0xf7f1522c
+Record added: 62. Start: 0xf7f15bf4
+Record added: 53. Start: 0xf7f15928
+Record added: 52. Start: 0xf7f158f8
+Record added: 52. Start: 0xf7f158f8
+Record added: 44. Start: 0xf7f15730
+Record added: 44. Start: 0xf7f15730
+Record added: 39. Start: 0xf7f15600
+Record added: 42. Start: 0xf7f1567c
+Record added: 8. Start: 0xf7f15164
+Record added: 43. Start: 0xf7f156e4
+Record added: 1. Start: 0xf7f150a0
+Record added: 44. Start: 0xf7f15730
+Record added: 38. Start: 0xf7f155dc
+Record added: 8. Start: 0xf7f15164
+Record added: 20. Start: 0xf7f152a4
+Record added: 41. Start: 0xf7f1565c
+Record added: 42. Start: 0xf7f1567c
+Record added: 20. Start: 0xf7f152a4
+Record added: 19. Start: 0xf7f1528c
+Record added: 49. Start: 0xf7f15864
+Record added: 10. Start: 0xf7f151a4
+Record added: 11. Start: 0xf7f151c0
+Record added: 11. Start: 0xf7f151c0
+Record added: 4. Start: 0xf7f150f0
+Record added: 1. Start: 0xf7f150a0
+Record added: 108. Start: 0xf7f16b28
+Record added: 108. Start: 0xf7f16b28
+Record added: 12. Start: 0xf7f151dc
+Record added: 54. Start: 0xf7f15950
+Record added: 81. Start: 0xf7f1645c
+Record added: 81. Start: 0xf7f1645c
+Record added: 10. Start: 0xf7f151a4
+Record added: 90. Start: 0xf7f168c8
+Record added: 0. Start: 0xf7f15088
+Record added: 71. Start: 0xf7f15f78
+Record added: 25. Start: 0xf7f15338
+Record added: 26. Start: 0xf7f15368
+Record added: 24. Start: 0xf7f15314
+Record added: 31. Start: 0xf7f15468
+Record added: 42. Start: 0xf7f1567c
+Record added: 42. Start: 0xf7f1567c
+Record added: 8. Start: 0xf7f15164
+Record added: 37. Start: 0xf7f155ac
+Record added: 9. Start: 0xf7f15180
+Record added: 19. Start: 0xf7f1528c
+Record added: 40. Start: 0xf7f15638
+Record added: 18. Start: 0xf7f15274
+Record added: 48. Start: 0xf7f1584c
+Record added: 47. Start: 0xf7f1582c
+Record added: 9. Start: 0xf7f15180
+Record added: 107. Start: 0xf7f16afc
+Record added: 11. Start: 0xf7f151c0
+Record added: 11. Start: 0xf7f151c0
+Record added: 11. Start: 0xf7f151c0
+Record added: 10. Start: 0xf7f151a4
+Record added: 80. Start: 0xf7f16428
+Record added: 79. Start: 0xf7f163fc
+Record added: 56. Start: 0xf7f15a60
+Record added: 7. Start: 0xf7f15148
+Record added: 56. Start: 0xf7f15a60
+Record added: 47. Start: 0xf7f1582c
+Record added: 7. Start: 0xf7f15148
+Record added: 89. Start: 0xf7f16894
+Record added: 70. Start: 0xf7f15e18
+Record added: 23. Start: 0xf7f152ec
+Record added: 30. Start: 0xf7f15438
+Record added: 39. Start: 0xf7f15600
+Record added: 47. Start: 0xf7f1582c
+Record added: 42. Start: 0xf7f1567c
+Record added: 8. Start: 0xf7f15164
+Record added: 106. Start: 0xf7f16adc
+Record added: 54. Start: 0xf7f15950
+Record added: 54. Start: 0xf7f15950
+Record added: 79. Start: 0xf7f163fc
+Record added: 79. Start: 0xf7f163fc
+Record added: 78. Start: 0xf7f163e0
+Record added: 88. Start: 0xf7f16860
+Record added: 87. Start: 0xf7f16840
+Record added: 60. Start: 0xf7f15b80
+Record added: 69. Start: 0xf7f15de4
+Record added: 41. Start: 0xf7f1565c
+Record added: 45. Start: 0xf7f15774
+Record added: 8. Start: 0xf7f15164
+Record added: 46. Start: 0xf7f157a4
+Record added: 8. Start: 0xf7f15164
+Record added: 50. Start: 0xf7f1587c
+Record added: 22. Start: 0xf7f152d4
+Record added: 7. Start: 0xf7f15148
+Record added: 36. Start: 0xf7f15590
+Record added: 22. Start: 0xf7f152d4
+Record added: 29. Start: 0xf7f15408
+Record added: 105. Start: 0xf7f16ab8
+Record added: 54. Start: 0xf7f15950
+Record added: 77. Start: 0xf7f163a4
+Record added: 87. Start: 0xf7f16840
+Record added: 60. Start: 0xf7f15b80
+Record added: 85. Start: 0xf7f167b0
+Record added: 86. Start: 0xf7f167f0
+Record added: 68. Start: 0xf7f15d8c
+Record added: 21. Start: 0xf7f152bc
+Record added: 28. Start: 0xf7f153ec
+Record added: 104. Start: 0xf7f16aa0
+Record added: 54. Start: 0xf7f15950
+Record added: 84. Start: 0xf7f16684
+Record added: 85. Start: 0xf7f167b0
+Record added: 67. Start: 0xf7f15d64
+Record added: 66. Start: 0xf7f15d40
+Record added: 12. Start: 0xf7f151dc
+Record added: 65. Start: 0xf7f15ce4
+Record added: 8. Start: 0xf7f15164
+Record added: 7. Start: 0xf7f15148
+Record added: 27. Start: 0xf7f15398
+Record added: 103. Start: 0xf7f16a88
+Record added: 83. Start: 0xf7f1658c
+Record added: 18. Start: 0xf7f15274
+Record added: 53. Start: 0xf7f15928
+Record added: 18. Start: 0xf7f15274
+Record added: 102. Start: 0xf7f16a70
+Record added: 82. Start: 0xf7f16568
+Record added: 79. Start: 0xf7f163fc
+Record added: 56. Start: 0xf7f15a60
+Record added: 48. Start: 0xf7f1584c
+Record added: 56. Start: 0xf7f15a60
+Record added: 75. Start: 0xf7f1601c
+Record added: 65. Start: 0xf7f15ce4
+Record added: 47. Start: 0xf7f1582c
+Record added: 7. Start: 0xf7f15148
+Record added: 101. Start: 0xf7f16a58
+Record added: 100. Start: 0xf7f16a40
+Record added: 99. Start: 0xf7f16a28
+Record added: 98. Start: 0xf7f16a10
+Record added: 97. Start: 0xf7f169f8
+Record added: 96. Start: 0xf7f169b4
+Record added: 95. Start: 0xf7f1697c
+Record added: 95. Start: 0xf7f1697c
+Record added: 53. Start: 0xf7f15928
+Record added: 94. Start: 0xf7f16954
+Record added: 54. Start: 0xf7f15950
+Record added: 54. Start: 0xf7f15950
+Record added: 54. Start: 0xf7f15950
+Record added: 93. Start: 0xf7f1693c
+Record added: 60. Start: 0xf7f15b80
+Record added: 91. Start: 0xf7f168e8
+Record added: 93. Start: 0xf7f1693c
+Record added: 92. Start: 0xf7f1690c
+COUNT BYTES:
+Record: 0. Access: 1
+Record: 1. Access: 1
+Record: 2. Access: 1
+Record: 3. Access: 1
+Record: 4. Access: 1
+Record: 5. Access: 1
+Record: 6. Access: 1
+Record: 7. Access: 1
+Record: 8. Access: 1
+Record: 9. Access: 1
+Record: 10. Access: 1
+Record: 11. Access: 1
+Record: 12. Access: 1
+Record: 13. Access: 1
+Record: 14. Access: 1
+Record: 15. Access: 1
+Record: 16. Access: 1
+Record: 17. Access: 1
+Record: 18. Access: 1
+Record: 19. Access: 1
+Record: 20. Access: 1
+Record: 21. Access: 1
+Record: 22. Access: 1
+Record: 23. Access: 1
+Record: 24. Access: 1
+Record: 25. Access: 1
+Record: 26. Access: 1
+Record: 27. Access: 1
+Record: 28. Access: 1
+Record: 29. Access: 1
+Record: 30. Access: 1
+Record: 31. Access: 1
+Record: 32. Access: 1
+Record: 33. Access: 1
+Record: 34. Access: 1
+Record: 35. Access: 1
+Record: 36. Access: 1
+Record: 37. Access: 1
+Record: 38. Access: 1
+Record: 39. Access: 1
+Record: 40. Access: 1
+Record: 41. Access: 1
+Record: 42. Access: 1
+Record: 43. Access: 1
+Record: 44. Access: 1
+Record: 45. Access: 1
+Record: 46. Access: 1
+Record: 47. Access: 1
+Record: 48. Access: 1
+Record: 49. Access: 1
+Record: 50. Access: 1
+Record: 51. Access: 1
+Record: 52. Access: 1
+Record: 53. Access: 1
+Record: 54. Access: 1
+Record: 55. Access: 1
+Record: 56. Access: 1
+Record: 57. Access: 1
+Record: 58. Access: 1
+Record: 59. Access: 1
+Record: 60. Access: 1
+Record: 61. Access: 1
+Record: 62. Access: 1
+Record: 63. Access: 1
+Record: 64. Access: 1
+Record: 65. Access: 1
+Record: 66. Access: 1
+Record: 67. Access: 1
+Record: 68. Access: 1
+Record: 69. Access: 1
+Record: 70. Access: 1
+Record: 71. Access: 1
+Record: 72. Access: 1
+Record: 73. Access: 1
+Record: 74. Access: 1
+Record: 75. Access: 1
+Record: 76. Access: 1
+Record: 77. Access: 1
+Record: 78. Access: 1
+Record: 79. Access: 1
+Record: 80. Access: 1
+Record: 81. Access: 1
+Record: 82. Access: 1
+Record: 83. Access: 1
+Record: 84. Access: 1
+Record: 85. Access: 1
+Record: 86. Access: 1
+Record: 87. Access: 1
+Record: 88. Access: 1
+Record: 89. Access: 1
+Record: 90. Access: 1
+Record: 91. Access: 1
+Record: 92. Access: 1
+Record: 93. Access: 1
+Record: 94. Access: 1
+Record: 95. Access: 1
+Record: 96. Access: 1
+Record: 97. Access: 1
+Record: 98. Access: 1
+Record: 99. Access: 1
+Record: 100. Access: 1
+Record: 101. Access: 1
+Record: 102. Access: 1
+Record: 103. Access: 1
+Record: 104. Access: 1
+Record: 105. Access: 1
+Record: 106. Access: 1
+Record: 107. Access: 1
+Record: 108. Access: 1
+Record: 109. Access: 1
+Record: 110. Access: 1
+Record: 111. Access: 1
+Record: 112. Access: 1
+Record: 113. Access: 1
+Record: 114. Access: 1
+Record: 115. Access: 1
+Record: 116. Access: 0
+Record: 117. Access: 1
+Record: 118. Access: 0
+F
+
+There was 1 failure:
+1) test_basic_refs: gc_forth.c:276: expected <12> but was <42>
+
+!!!FAILURES!!!
+Runs: 1 Passes: 0 Fails: 1
+
